@@ -7,7 +7,7 @@
 🌐 **Live Site:** https://louiseka.github.io/london-company-design1/
 
 ## What is the London Company Website?
-This project was completed during **Week 2 of TechNative Digital’s Software Development: Tech Finishing School**.
+This project was completed during Week 2 of TechNative Digital’s Software Development: Tech Finishing School.
 
 Working in pairs, we converted a **basic Figma design** into a **structured, semantic HTML webpage**, styled using **CSS**. The focus of the project was on accurately translating a design into code while maintaining clean structure and readable markup.
 
@@ -28,7 +28,7 @@ Working in pairs, we converted a **basic Figma design** into a **structured, sem
 - Structuring CSS for clarity and maintainability  
 
 ## Future Improvements
-- Improve **mobile responsiveness** and layout on smaller screens  
+- Improve mobile responsiveness and layout on smaller screens  
 
 ## Getting Started
 To run the project locally:
